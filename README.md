@@ -1,6 +1,8 @@
 # Hi there 👋 Im Nabil
 ### 🌱 I’m currently learning Mathematic and Computer Science
-### You can find me on Instagram: fawazdhia_ and www.linkedin.com/in/andi-fawazdhia-0106 👋😄
+# You can find me 
+  <a href="https://www.linkedin.com/in/andi-fawazdhia-0106//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://twitter.com/fawazdhia_nabil" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 <!--
 **fawazdhianabil/fawazdhianabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
