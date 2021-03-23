@@ -1,5 +1,5 @@
 ### Hi there 👋 Im Nabil
-### 🌱 I’m currently learning **Mathematic and Computer Science**
+### 🌱 I’m currently learning Mathematic and Computer Science
 ### You can find me on Instagram: fawazdhia_ and www.linkedin.com/in/andi-fawazdhia-0106 👋😄
 
 <!--
